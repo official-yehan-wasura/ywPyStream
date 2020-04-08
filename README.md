@@ -1,4 +1,6 @@
 # ywPyStream
+Author : Yehan Wasura, Computer science student of Sri Lanka. 16 years old
+
 This is a Subprocess alternative for python
 Install : pip install ywPyStream
 
