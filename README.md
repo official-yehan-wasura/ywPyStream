@@ -15,15 +15,12 @@ Example:
 Support Me,
 Donate me via paypal : https://paypal.me/cyberrex599
 
-Donate me via CryptoCurrency,
+Donate me via CryptoCurrency :
 
-bitcoin : 1MdrAuZsU96JqVPzZnwMsXCS7kN9YTKPKE
-
-bitcoin cash : qr394zfc2f8j42my53cypkuulnztn0ntdugczqwfdw
-
-Ether : 0x419A45041700b7931A392681a0d1F21fAaA9b13e
-
-Stellar : GDYL5P6WP47ZIAREEGEHNPL2IZXMYR5ACZCT2HABPF2O4CE24BHTGZWR
+       bitcoin : 1MdrAuZsU96JqVPzZnwMsXCS7kN9YTKPKE
+       bitcoin cash : qr394zfc2f8j42my53cypkuulnztn0ntdugczqwfdw
+       Ether : 0x419A45041700b7931A392681a0d1F21fAaA9b13e
+       Stellar : GDYL5P6WP47ZIAREEGEHNPL2IZXMYR5ACZCT2HABPF2O4CE24BHTGZWR
   
 instagram : https://instagram.com/official.yehanwasura.lk
 
