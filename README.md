@@ -14,16 +14,17 @@ Example:
     yps.check_output(...) #Same as check_call() but returns the contents of stdout instead of a return code
     yps.getoutput(...) #Runs a command in the shell, waits for it to complete,then returns the output
     yps.getstatusoutput(...)#Runs a command in the shell, waits for it to complete, then returns a (exitcode, output) tuple
-Support Me,
-Donate me via paypal : https://paypal.me/cyberrex599
 
-Donate me via CryptoCurrency :
 
-       bitcoin : 1MdrAuZsU96JqVPzZnwMsXCS7kN9YTKPKE
-       bitcoin cash : qr394zfc2f8j42my53cypkuulnztn0ntdugczqwfdw
-       Ether : 0x419A45041700b7931A392681a0d1F21fAaA9b13e
-       Stellar : GDYL5P6WP47ZIAREEGEHNPL2IZXMYR5ACZCT2HABPF2O4CE24BHTGZWR
-  
-instagram : https://instagram.com/official.yehanwasura.lk
-
-Email : yehantest@gmail.com
+```	
+  try to contribute and my contacts are :
+       Email : yehantest@gmail.com
+       Instagram : @official.yehanwasura.lk
+       Whatsapp : +94 0762679048
+       YouTube : https://www.youtube.com/channel/UCzK8p9qKo7hygzsZtshJC_g
+       
+       Support Me Via Paypal : https://paypal.me/cyberrex599
+       Support Me Via Patreon : https://patreon.com/thelearningcrux
+ ```      
+ 
+ Thank You
